@@ -1,4 +1,4 @@
-## Script03_portScanner
+## Script portScanner
 ### Info
 Coming soon!
 ### To install
